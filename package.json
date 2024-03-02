@@ -29,6 +29,7 @@
         "vue-tsc": "^2.0.2"
     },
     "dependencies": {
-        "vue": "^3.4.21"
+        "vue": "^3.4.21",
+        "vue-router": "^4.3.0"
     }
 }
